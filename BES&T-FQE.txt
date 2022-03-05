@@ -1,0 +1,20 @@
+One of the registration websites requires your suggestion on the Usability aspects of their
+website.
+Site URL: Open URL https://www.bestundertaking.net/NewConnection.aspx
+
+Functional Requirement:
+1. Open URL https://www.bestundertaking.net/NewConnection.aspx
+
+
+Improvements :
+      Permanent Connection Type:
+	Suggestions:
+	Need to add placeholder for easy understanding of input text.
+	Make page stick at current position when updating and records as it moves at top again and again.
+      In Connection Details section:
+	after entering Supply Voltage the page should stick at same place it should not Move to top of page.
+	The radio button is enabled neither we are able to click YES not NO.
+	Registration Fee(Rs), Connection Fee(Rs), Security Deposit(Rs), Total Charges(Rs) these feilds are unchangeable which should be a changeable input text box.
+     In Upload Required Document Section:
+	after uploading the page should stick at same place it should not move to top of page.
+	their should be file input type suggestion so that user upload on those format files.
